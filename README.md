@@ -1,9 +1,9 @@
 ### Hi there, I'm Umair 👋
 
-- I'm currently an undergraduate CS student at UofT
-- I'm currently improving my skills in Java and Python
-- Working towards completing the [GreenChoice](https://github.com/Ne14k/GreenChoice) android application
-- Connect with me on [LinkedIn](www.linkedin.com/in/umairx25) 
+- 🧑‍🎓 I'm currently an undergraduate CS student at UofT
+- 👨‍💻 I'm currently improving my skills in Java and Python
+- 🥬 Working towards completing the [GreenChoice](https://github.com/Ne14k/GreenChoice) android application
+- 📧 Connect with me on [LinkedIn](www.linkedin.com/in/umairx25) 
 <!--
 **umairx25/umairx25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
