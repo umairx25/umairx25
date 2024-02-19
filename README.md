@@ -1,7 +1,7 @@
 ### Hi there, I'm Umair 👋
 
 - 🧑‍🎓 I'm an undergraduate CS student at UofT
-- 💻 Working towards completing the [Adventure Game](https://github.com/umairx25/CSC111_AdventureGame) project
+- 💻 Working towards completing the [GreenChoice] (https://github.com/Ne14k/GreenChoice) project
 - 📧 Connect with me on [LinkedIn](www.linkedin.com/in/umairx25) 
 <!--
 **umairx25/umairx25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
