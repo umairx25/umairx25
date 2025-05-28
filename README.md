@@ -18,10 +18,5 @@ I'm a CS undergrad passionate about building full-stack systems with AI, automat
 
 ---
 
-### 📈 GitHub Stats
-![Umair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umairx25&show_icons=true&theme=default&count_private=true)
-
----
-
 ### 📬 Connect with Me
 [Portfolio](https://uarham.me) • [LinkedIn](https://linkedin.com/in/YOURNAME) • [Email](mailto:your@email.com)
