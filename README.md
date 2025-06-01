@@ -19,4 +19,4 @@ I'm a CS undergrad passionate about building full-stack systems with AI, automat
 ---
 
 ### 📬 Connect with Me
-[Portfolio](https://uarham.me) • [LinkedIn](https://linkedin.com/in/YOURNAME) • [Email](mailto:your@email.com)
+[Portfolio](https://uarham.me) • [LinkedIn](https://linkedin.com/in/YOURNAME) • [Email](mailto:umairarhambd@gmail.com)
