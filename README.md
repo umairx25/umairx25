@@ -5,7 +5,7 @@ I'm a CS undergrad passionate about building full-stack systems with AI, automat
 ---
 
 ### 🚀 Currently Building
-- [PromptLink](https://promptlink.onrender.com/): Full-stack LLM router with smart model selection, scoring, and traceable reasoning via Neo4j.
+- [PromptLink](https://promptlink.uarham.me/): Full-stack LLM router with smart model selection, scoring, and traceable reasoning via Neo4j.
 - Exploring vector-based scoring and graph-based logging for better LLM performance and UX.
 
 ---
