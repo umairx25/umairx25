@@ -10,10 +10,10 @@ I'm a CS undergrad passionate about building full-stack systems with AI, automat
 ---
 
 ### 🧠 Tech I Work With
-**Languages**: Python, Java, JavaScript, TypeScript, SQL
-**Frameworks**: FastAPI, Django, LangChain, React, Node.js, Express.js, Vue, Pandas
-**Tools**: Git, Docker, Postman, OAuth2, VS Code, PostgreSQL, MongoDB 
-**Focus Areas:** Full Stack Development, LLMs, RAG Pipelines, Backend Development
+**Languages**: Python, Java, JavaScript, TypeScript, SQL <br>
+**Frameworks**: FastAPI, Django, LangChain, React, Node.js, Express.js, Vue, Pandas <br>
+**Tools**: Git, Docker, Postman, OAuth2, VS Code, PostgreSQL, MongoDB <br>
+**Focus Areas:** Full Stack Development, LLMs, RAG Pipelines, Backend Development <br>
 
 ---
 
