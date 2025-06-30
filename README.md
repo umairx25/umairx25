@@ -10,10 +10,10 @@ I'm a CS undergrad passionate about building full-stack systems with AI, automat
 ---
 
 ### 🧠 Tech I Work With
-**Languages:** Python, Java, JavaScript, SQL  
-**Frameworks:** React, Tailwind, FastAPI, Flask, LangChain  
-**Tools:** Firebase, Azure, Neo4j, scikit-learn  
-**Focus Areas:** Full Stack Development, LLMs, Recommender Systems, Graph Reasoning
+**Languages**: Python, Java, JavaScript, TypeScript, SQL
+**Frameworks**: FastAPI, Django, LangChain, React, Node.js, Express.js, Vue, Pandas
+**Tools**: Git, Docker, Postman, OAuth2, VS Code, PostgreSQL, MongoDB 
+**Focus Areas:** Full Stack Development, LLMs, RAG Pipelines, Backend Development
 
 ---
 
