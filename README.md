@@ -57,6 +57,6 @@ CodeFill is a one-click Chrome extension that fetches and auto-copies verificati
 ## 📊 GitHub Stats
 
 ![Umair's GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=umairx25&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umairx25&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umairx25&theme=default)
 
 
