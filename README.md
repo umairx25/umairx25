@@ -6,8 +6,8 @@ I'm a CS student at the University of Toronto focusing on AI and Computer System
 
 ## 🚀 What I'm Working On
 
-**[CodeFill](https://codefill.uarham.me/)**  
-CodeFill is a one-click Chrome extension that fetches and auto-copies verification codes (like OTPs, 2FA codes, login tokens) directly from your Gmail inbox. 
+**[TidyTabs](https://tidytabs.onrender.com/)**  
+TidyTabs is a Chrome extension that automatically organize your tabs into groups using AI. Download now on the [Chrome Web Store]([https://tidytabs.onrender.com/](https://chromewebstore.google.com/detail/inmcfgkemanhdkhcfefdhokeogfcllap?utm_source=item-share-cb))!
 
 ---
 
@@ -54,9 +54,5 @@ CodeFill is a one-click Chrome extension that fetches and auto-copies verificati
 
 ---
 
-## 📊 GitHub Stats
-
-![Umair's GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=umairx25&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umairx25&exclude=CSS&theme=dark)
 
 
