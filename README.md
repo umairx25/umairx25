@@ -1,13 +1,13 @@
 # 👋 Hey, I'm Umair
 
-I'm a CS student at the University of Toronto focusing on AI and Computer Systems. I’m passionate about building full-stack systems at the intersection of AI, intelligent systems, and delivering innovations that empower users to do more.
+I'm a CS student at the University of Toronto, exploring the intersection of low-level computer systems and AI. I build software that solves real problems and scales reliably, utilizing clean and scalable backend systems and AI-powered tools.
 
 ---
 
 ## 🚀 What I'm Working On
 
-**[TidyTabs](https://tidytabs.onrender.com/)**  
-TidyTabs is a Chrome extension that automatically organize your tabs into groups using AI. Download now on the [Chrome Web Store]([https://tidytabs.onrender.com/](https://chromewebstore.google.com/detail/inmcfgkemanhdkhcfefdhokeogfcllap?utm_source=item-share-cb))!
+- **[Tabi](https://gettabi.netlify.app/)** : An agentic AI assistant that lets you control your browser using natural language. Coming soon to Chrome Web Store ; check out the repo [here](https://github.com/umairx25/Tabi/)!
+- **Envisible**: Secure, simple secret management for developers and teams. Coming soon!
 
 ---
 
