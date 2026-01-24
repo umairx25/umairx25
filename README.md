@@ -1,13 +1,13 @@
 # 👋 Hey, I'm Umair
 
-I'm a CS student at the University of Toronto, exploring the intersection of low-level computer systems and AI. I build software that solves real problems and scales reliably, utilizing clean and scalable backend systems and AI-powered tools.
+I'm a CS student at the University of Toronto, exploring the intersection of scalable computer systems and AI. I build software that solves real problems and scales reliably, utilizing clean and scalable backend systems and AI-powered tools.
 
 ---
 
 ## 🚀 What I'm Working On
 
+- **[Envisible](https://envisible.netlify.app/)** Secure, simple secret management for developers and teams. Webapp, Python SDK, Node SDK are now live!
 - **[Tabi](https://gettabi.netlify.app/)** : An agentic AI assistant that lets you control your browser using natural language. Coming soon to Chrome Web Store ; check out the repo [here](https://github.com/umairx25/Tabi/)!
-- **Envisible**: Secure, simple secret management for developers and teams. Coming soon!
 
 ---
 
