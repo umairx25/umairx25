@@ -6,7 +6,7 @@ I'm a CS student at the University of Toronto, exploring the intersection of sca
 
 ## 🚀 What I'm Working On
 
-- **[Envisible](https://envisible.netlify.app/)** Secure, simple secret management for developers and teams. Webapp, Python SDK, Node SDK are now live!
+- **[Envisible](https://envisible.pages.dev/)** Secure, simple secret management for developers and teams. Webapp, Python SDK, Node SDK are now live!
 - **[Tabi](https://gettabi.netlify.app/)** : An agentic AI assistant that lets you control your browser using natural language. Coming soon to Chrome Web Store ; check out the repo [here](https://github.com/umairx25/Tabi/)!
 
 ---
